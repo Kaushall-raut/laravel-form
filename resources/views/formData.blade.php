@@ -1,8 +1,8 @@
 <head>
     <link rel="stylesheet" href="css/formData.css">
 </head>
-<div>
-    <h1>User Data</h1>
+<div class="Data-container">
+    <h1>Users Data</h1>
     <table>
         <thead>
             <tr>
