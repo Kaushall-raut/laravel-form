@@ -30,6 +30,10 @@
 
                     {{$data->address}}
                 </td>
+                <td>
+                    <a href="{{'update/'.$data->id}}">Update</a>
+                </td>
+                <td><a href="{{'deleteForm/'.$data->id}}" method="post" >Delete</a></td>
             </tr>
         </tbody>
         
